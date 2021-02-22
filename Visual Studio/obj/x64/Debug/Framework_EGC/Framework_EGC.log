@@ -1,0 +1,22 @@
+﻿  Tema3.cpp
+D:\VSprojects\Framework-EGC-master\Framework-EGC-master\Source\Laboratoare\Tema3\Tema3.cpp(147,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VSprojects\Framework-EGC-master\Framework-EGC-master\Source\Laboratoare\Tema3\Tema3.cpp(411,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VSprojects\Framework-EGC-master\Framework-EGC-master\Source\Laboratoare\Tema3\Tema3.cpp(414,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VSprojects\Framework-EGC-master\Framework-EGC-master\Source\Laboratoare\Tema3\Tema3.cpp(438,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VSprojects\Framework-EGC-master\Framework-EGC-master\Source\Laboratoare\Tema3\Tema3.cpp(590,36): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\VSprojects\Framework-EGC-master\Framework-EGC-master\Source\Laboratoare\Tema3\Tema3.cpp(597,38): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\VSprojects\Framework-EGC-master\Framework-EGC-master\Source\Laboratoare\Tema3\Tema3.cpp(804,34): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Framework_EGC.vcxproj -> D:\VSprojects\Framework-EGC-master\Framework-EGC-master\Visual Studio\..\x64\Debug\Framework_EGC.exe
+  A subdirectory or file D:\VSprojects\Framework-EGC-master\Framework-EGC-master\Visual Studio\scripts\..\..\x64\Debug already exists.
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
